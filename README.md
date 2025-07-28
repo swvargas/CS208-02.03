@@ -1,9 +1,6 @@
 # CS208-starter-code
 
 - Click Use this template, then click Open in a codespace.
-
-![Use this template](https://docs.github.com/assets/cb-76823/mw-1440/images/help/repository/use-this-template-button.webp)
-
 - Open the terminal in your codespace.
 - Run `npm install` to install the dependencies.
 - Run `npm start` to start the server.
